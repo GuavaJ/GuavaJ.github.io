@@ -6,15 +6,16 @@ body {
     margin: auto;
     width: 640px;
     padding: 50px;
-    background: #79B079;
+    background: #178071;
     font-family: Garamond, Serif;
-    font-size: 20px;
+    font-size: 40px;
     text-align: center;
 }
 
 h1 {
     font-family: Garamond, serif;
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
+    color: #D8DAD9;
     
 }
