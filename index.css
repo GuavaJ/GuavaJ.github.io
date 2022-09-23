@@ -2,11 +2,40 @@ head {
 
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #D8DAD9;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #457B3C;
+}
+
+.active {
+    background-color: #5F9855;
+}
+
+
 body {
     margin: auto;
     width: 640px;
     padding: 50px;
-    background: #178071;
+    background: #457B3C;
     font-family: Garamond, Serif;
     font-size: 40px;
     text-align: center;
