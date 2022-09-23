@@ -1,12 +1,15 @@
+head {
+
+
+}
+
 body {
     background: #79B079;
     font-family: TeX Gyre Adventor;
 }
-h1 {
-    color: #009;
-    font-size: 1em;
-    margin-bottom: .3em;
-    text-align: center;
-    text-decoration: underline;
-}
 
+h1 {
+    font-family: TeX Gyre Adventor;
+
+
+}
