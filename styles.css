@@ -31,17 +31,24 @@ li a:hover{
 body {
     background: #457B3C;
     font-family: Garamond, Serif;
-    font-size: 40px;
+    font-size: 20px;
     text-align: center;
 }
 
 h1 {
     font-family: Garamond, serif;
-    font-size: 50px;
+    font-size: 40px;
     text-align: center;
     color: #D8DAD9;
     
 }
+h2 {
+    font-family: Garamond, serif;
+    font-size: 28px;
+    text-align: left;
+    color: #D8DAD9;
+}
+    
 
 p {
     color: #D8DAD9;
