@@ -8,6 +8,8 @@ body {
     font-family: ;
 }
 
-h1 { font-family: Garamond, serif; 
+h1 { font-family: Garamond, serif;
+     font-size: 30px;
+     text-align: center;
 
    }
