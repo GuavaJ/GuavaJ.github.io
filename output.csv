@@ -1,0 +1,541 @@
+Sort Name,Date and Time,Test Number,Git Branch,Git Hash,Command Line Executed,Text File,Count of Strings,Type of File,Execution Time (real, to nearest ms)
+.,12/10/22 19:01:52,1,main,ab2375e83d83e7f873,time . < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:52,2,main,ab2375e83d83e7f873,time . < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:52,3,main,ab2375e83d83e7f873,time . < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:52,4,main,ab2375e83d83e7f873,time . < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:52,5,main,ab2375e83d83e7f873,time . < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:52,1,main,ab2375e83d83e7f873,time . < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:52,2,main,ab2375e83d83e7f873,time . < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:52,3,main,ab2375e83d83e7f873,time . < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:52,4,main,ab2375e83d83e7f873,time . < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time . < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time . < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time . < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time . < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+.,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time . < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,./script.sh: line 29: .: filename argument required
+.: usage: . filename [arguments]
+0.001
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.006
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.010
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.010
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.010
+BubbleSort/.build/debug/Simple,12/10/22 19:01:53,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.010
+BubbleSort/.build/debug/Simple,12/10/22 19:01:54,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.010
+BubbleSort/.build/debug/Simple,12/10/22 19:01:54,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.663
+BubbleSort/.build/debug/Simple,12/10/22 19:01:55,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.656
+BubbleSort/.build/debug/Simple,12/10/22 19:01:56,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.661
+BubbleSort/.build/debug/Simple,12/10/22 19:01:56,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.677
+BubbleSort/.build/debug/Simple,12/10/22 19:01:57,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.655
+BubbleSort/.build/debug/Simple,12/10/22 19:03:00,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,63.045
+BubbleSort/.build/debug/Simple,12/10/22 19:04:02,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,62.308
+BubbleSort/.build/debug/Simple,12/10/22 19:05:04,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,62.194
+BubbleSort/.build/debug/Simple,12/10/22 19:06:07,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,62.596
+BubbleSort/.build/debug/Simple,12/10/22 19:07:10,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,63.284
+BubbleSort/.build/debug/Simple,12/10/22 19:12:11,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,300.211
+BubbleSort/.build/debug/Simple,12/10/22 19:17:11,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,300.202
+BubbleSort/.build/debug/Simple,12/10/22 19:22:11,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,300.200
+BubbleSort/.build/debug/Simple,12/10/22 19:27:11,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,300.207
+BubbleSort/.build/debug/Simple,12/10/22 19:32:11,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,300.190
+BubbleSort/.build/debug/Simple,12/10/22 19:32:11,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.006
+BubbleSort/.build/debug/Simple,12/10/22 19:32:11,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:32:11,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:32:11,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:32:11,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:32:12,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:32:12,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:32:12,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.005
+BubbleSort/.build/debug/Simple,12/10/22 19:32:12,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:32:12,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 19:32:12,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.012
+BubbleSort/.build/debug/Simple,12/10/22 19:32:12,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.011
+BubbleSort/.build/debug/Simple,12/10/22 19:32:12,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.011
+BubbleSort/.build/debug/Simple,12/10/22 19:32:12,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.011
+BubbleSort/.build/debug/Simple,12/10/22 19:32:12,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.012
+BubbleSort/.build/debug/Simple,12/10/22 19:32:12,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.726
+BubbleSort/.build/debug/Simple,12/10/22 19:32:13,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.726
+BubbleSort/.build/debug/Simple,12/10/22 19:32:14,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.725
+BubbleSort/.build/debug/Simple,12/10/22 19:32:15,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.730
+BubbleSort/.build/debug/Simple,12/10/22 19:32:15,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.743
+BubbleSort/.build/debug/Simple,12/10/22 19:33:33,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,77.980
+BubbleSort/.build/debug/Simple,12/10/22 19:34:51,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,78.012
+BubbleSort/.build/debug/Simple,12/10/22 19:36:10,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,78.626
+BubbleSort/.build/debug/Simple,12/10/22 19:37:28,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,78.063
+BubbleSort/.build/debug/Simple,12/10/22 19:38:46,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,77.949
+BubbleSort/.build/debug/Simple,12/10/22 19:43:46,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,300.188
+BubbleSort/.build/debug/Simple,12/10/22 19:48:46,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,300.200
+BubbleSort/.build/debug/Simple,12/10/22 19:53:47,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,300.222
+BubbleSort/.build/debug/Simple,12/10/22 19:58:47,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,300.224
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,300.319
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.006
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.012
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.012
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.012
+BubbleSort/.build/debug/Simple,12/10/22 20:03:47,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.012
+BubbleSort/.build/debug/Simple,12/10/22 20:03:48,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.012
+BubbleSort/.build/debug/Simple,12/10/22 20:03:48,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.720
+BubbleSort/.build/debug/Simple,12/10/22 20:03:49,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.726
+BubbleSort/.build/debug/Simple,12/10/22 20:03:50,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.721
+BubbleSort/.build/debug/Simple,12/10/22 20:03:50,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.719
+BubbleSort/.build/debug/Simple,12/10/22 20:03:51,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.720
+BubbleSort/.build/debug/Simple,12/10/22 20:05:08,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,76.455
+BubbleSort/.build/debug/Simple,12/10/22 20:06:24,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,76.486
+BubbleSort/.build/debug/Simple,12/10/22 20:07:41,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,76.441
+BubbleSort/.build/debug/Simple,12/10/22 20:08:56,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,75.479
+BubbleSort/.build/debug/Simple,12/10/22 20:10:12,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,76.047
+BubbleSort/.build/debug/Simple,12/10/22 20:15:12,1,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,300.253
+BubbleSort/.build/debug/Simple,12/10/22 20:20:13,2,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,300.230
+BubbleSort/.build/debug/Simple,12/10/22 20:25:13,3,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,300.212
+BubbleSort/.build/debug/Simple,12/10/22 20:30:13,4,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,300.197
+BubbleSort/.build/debug/Simple,12/10/22 20:35:13,5,main,ab2375e83d83e7f873,time BubbleSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,300.189
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.008
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:35:13,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:35:14,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.005
+InsertionSort/.build/debug/Simple,12/10/22 20:35:14,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.012
+InsertionSort/.build/debug/Simple,12/10/22 20:35:14,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.012
+InsertionSort/.build/debug/Simple,12/10/22 20:35:14,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.012
+InsertionSort/.build/debug/Simple,12/10/22 20:35:14,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.012
+InsertionSort/.build/debug/Simple,12/10/22 20:35:14,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.012
+InsertionSort/.build/debug/Simple,12/10/22 20:35:15,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,1.104
+InsertionSort/.build/debug/Simple,12/10/22 20:35:16,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,1.130
+InsertionSort/.build/debug/Simple,12/10/22 20:35:17,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,1.094
+InsertionSort/.build/debug/Simple,12/10/22 20:35:18,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,1.110
+InsertionSort/.build/debug/Simple,12/10/22 20:35:19,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,1.098
+InsertionSort/.build/debug/Simple,12/10/22 20:36:46,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,87.216
+InsertionSort/.build/debug/Simple,12/10/22 20:38:13,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,86.939
+InsertionSort/.build/debug/Simple,12/10/22 20:39:39,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,85.812
+InsertionSort/.build/debug/Simple,12/10/22 20:41:05,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,85.804
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,85.785
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.006
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.005
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.005
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.005
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.005
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.005
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.048
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.049
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.048
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.049
+InsertionSort/.build/debug/Simple,12/10/22 20:42:31,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.049
+InsertionSort/.build/debug/Simple,12/10/22 20:42:36,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,4.737
+InsertionSort/.build/debug/Simple,12/10/22 20:42:41,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,5.060
+InsertionSort/.build/debug/Simple,12/10/22 20:42:46,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,4.905
+InsertionSort/.build/debug/Simple,12/10/22 20:42:51,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,4.733
+InsertionSort/.build/debug/Simple,12/10/22 20:42:56,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,4.935
+InsertionSort/.build/debug/Simple,12/10/22 20:47:56,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,300.197
+InsertionSort/.build/debug/Simple,12/10/22 20:52:56,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,300.218
+InsertionSort/.build/debug/Simple,12/10/22 20:57:56,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,300.192
+InsertionSort/.build/debug/Simple,12/10/22 21:02:57,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,300.435
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,300.201
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.005
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.005
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.005
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.005
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.005
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.004
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.035
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.035
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.035
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.036
+InsertionSort/.build/debug/Simple,12/10/22 21:07:57,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.035
+InsertionSort/.build/debug/Simple,12/10/22 21:08:00,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,2.980
+InsertionSort/.build/debug/Simple,12/10/22 21:08:03,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,2.964
+InsertionSort/.build/debug/Simple,12/10/22 21:08:06,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,2.932
+InsertionSort/.build/debug/Simple,12/10/22 21:08:09,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,2.976
+InsertionSort/.build/debug/Simple,12/10/22 21:08:12,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,2.931
+InsertionSort/.build/debug/Simple,12/10/22 21:13:04,1,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,291.630
+InsertionSort/.build/debug/Simple,12/10/22 21:17:56,2,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,291.739
+InsertionSort/.build/debug/Simple,12/10/22 21:22:56,3,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,300.206
+InsertionSort/.build/debug/Simple,12/10/22 21:27:56,4,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,300.203
+InsertionSort/.build/debug/Simple,12/10/22 21:32:56,5,main,ab2375e83d83e7f873,time InsertionSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,300.195
+SelectionSort/.build/debug/Simple,12/10/22 21:32:56,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.008
+SelectionSort/.build/debug/Simple,12/10/22 21:32:56,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:56,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:56,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:56,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e0.txt > /dev/null,ordered.txt10e0.txt,1,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:56,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:56,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:56,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:56,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:56,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e1.txt > /dev/null,ordered.txt10e1.txt,10,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:56,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:56,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:56,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:57,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:57,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e2.txt > /dev/null,ordered.txt10e2.txt,100,ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:32:57,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.021
+SelectionSort/.build/debug/Simple,12/10/22 21:32:57,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.022
+SelectionSort/.build/debug/Simple,12/10/22 21:32:57,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.021
+SelectionSort/.build/debug/Simple,12/10/22 21:32:57,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.021
+SelectionSort/.build/debug/Simple,12/10/22 21:32:57,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e3.txt > /dev/null,ordered.txt10e3.txt,1000,ordered.txt,0.021
+SelectionSort/.build/debug/Simple,12/10/22 21:32:58,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,1.546
+SelectionSort/.build/debug/Simple,12/10/22 21:33:00,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,1.547
+SelectionSort/.build/debug/Simple,12/10/22 21:33:01,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,1.543
+SelectionSort/.build/debug/Simple,12/10/22 21:33:03,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,1.547
+SelectionSort/.build/debug/Simple,12/10/22 21:33:04,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e4.txt > /dev/null,ordered.txt10e4.txt,10000,ordered.txt,1.554
+SelectionSort/.build/debug/Simple,12/10/22 21:35:37,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,152.736
+SelectionSort/.build/debug/Simple,12/10/22 21:38:10,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,152.482
+SelectionSort/.build/debug/Simple,12/10/22 21:40:43,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,152.825
+SelectionSort/.build/debug/Simple,12/10/22 21:43:15,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,152.877
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < ordered.txt10e5.txt > /dev/null,ordered.txt10e5.txt,100000,ordered.txt,152.471
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.005
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e0.txt > /dev/null,reverse-ordered.txt10e0.txt,1,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e1.txt > /dev/null,reverse-ordered.txt10e1.txt,10,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e2.txt > /dev/null,reverse-ordered.txt10e2.txt,100,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.021
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.021
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.021
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.021
+SelectionSort/.build/debug/Simple,12/10/22 21:45:48,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e3.txt > /dev/null,reverse-ordered.txt10e3.txt,1000,reverse-ordered.txt,0.021
+SelectionSort/.build/debug/Simple,12/10/22 21:45:50,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,1.563
+SelectionSort/.build/debug/Simple,12/10/22 21:45:51,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,1.568
+SelectionSort/.build/debug/Simple,12/10/22 21:45:53,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,1.569
+SelectionSort/.build/debug/Simple,12/10/22 21:45:55,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,1.564
+SelectionSort/.build/debug/Simple,12/10/22 21:45:56,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e4.txt > /dev/null,reverse-ordered.txt10e4.txt,10000,reverse-ordered.txt,1.566
+SelectionSort/.build/debug/Simple,12/10/22 21:48:30,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,153.746
+SelectionSort/.build/debug/Simple,12/10/22 21:51:04,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,153.923
+SelectionSort/.build/debug/Simple,12/10/22 21:53:38,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,154.478
+SelectionSort/.build/debug/Simple,12/10/22 21:56:12,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,153.784
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < reverse-ordered.txt10e5.txt > /dev/null,reverse-ordered.txt10e5.txt,100000,reverse-ordered.txt,153.865
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.006
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e0.txt > /dev/null,random.txt10e0.txt,1,random.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e1.txt > /dev/null,random.txt10e1.txt,10,random.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.005
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e2.txt > /dev/null,random.txt10e2.txt,100,random.txt,0.004
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.020
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.020
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.020
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.020
+SelectionSort/.build/debug/Simple,12/10/22 21:58:46,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e3.txt > /dev/null,random.txt10e3.txt,1000,random.txt,0.021
+SelectionSort/.build/debug/Simple,12/10/22 21:58:48,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,1.554
+SelectionSort/.build/debug/Simple,12/10/22 21:58:49,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,1.542
+SelectionSort/.build/debug/Simple,12/10/22 21:58:51,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,1.548
+SelectionSort/.build/debug/Simple,12/10/22 21:58:53,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,1.545
+SelectionSort/.build/debug/Simple,12/10/22 21:58:54,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e4.txt > /dev/null,random.txt10e4.txt,10000,random.txt,1.542
+SelectionSort/.build/debug/Simple,12/10/22 22:01:27,1,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,152.430
+SelectionSort/.build/debug/Simple,12/10/22 22:04:00,2,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,153.084
+SelectionSort/.build/debug/Simple,12/10/22 22:06:32,3,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,152.222
+SelectionSort/.build/debug/Simple,12/10/22 22:09:05,4,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,152.936
+SelectionSort/.build/debug/Simple,12/10/22 22:11:37,5,main,ab2375e83d83e7f873,time SelectionSort/.build/debug/Simple < random.txt10e5.txt > /dev/null,random.txt10e5.txt,100000,random.txt,152.341
